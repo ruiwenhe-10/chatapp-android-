@@ -7,4 +7,4 @@ Real-time Chat App
 
 • Implement user authentication via email and Google account to ensure a secure connection using Java
 
-• Design and program App UI via Android Studio and developed application features such as group chats room and sending
+• Design and program App UI via Android Studio and developed application features such as group chats room and sending multimedia images.
