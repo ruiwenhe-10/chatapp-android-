@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "189689405266",
+    "firebase_url": "https://friendchat-929a2.firebaseio.com",
+    "project_id": "friendchat-929a2",
+    "storage_bucket": "friendchat-929a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189689405266:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189689405266-onqd35p65m8ft2tb265r0l3coa4hv1of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "ffaae5c89642a4f7c06f66a855d5bb2bf645943e"
+          }
+        },
+        {
+          "client_id": "189689405266-v30na2192qcfvo0mrg2l2mib9ocanmi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "0f649e3ff48d6bd4f8ec60e00ca125cc3c28c9e0"
+          }
+        },
+        {
+          "client_id": "189689405266-l3ljage1af5pdc7ki4v3308mcjnldmlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG59jY0FaInG7c7CTiUjgXLpWP_SICrmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189689405266-l3ljage1af5pdc7ki4v3308mcjnldmlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="group_name">Group List</string>
+    <string name="cs100">CS100 Group Chat</string>
+    <string name="cs180">CS180 Group Chat</string>
+    <string name="IhateDT">I hate DT Group Chat</string>
+    <string name="JBFans">JAMES BOND FAN Group Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="desc">Profile</string>
+    <string name="profilename">User Profile</string>
+</resources>

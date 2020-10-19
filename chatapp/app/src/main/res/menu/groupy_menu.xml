@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sign_out_menu2"
+        android:title="Sign Out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/profile_menu2"
+        android:title="Profile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/message_menu2"
+        android:title="Message Board"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/groupchat_menu2"
+        android:title="Group Chats"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add_member"
+        android:title="Add Member"
+        app:showAsAction="never" />
+</menu>
